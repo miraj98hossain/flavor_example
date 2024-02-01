@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000584234133",
+    "project_id": "flavor-example-e924c",
+    "storage_bucket": "flavor-example-e924c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000584234133:android:fc8498afa2f584960e479c",
+        "android_client_info": {
+          "package_name": "com.example.flavor_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkpx2LFttN_ho7Ul7d6T5tGSx7aFqI6I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
